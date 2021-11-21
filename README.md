@@ -5,7 +5,7 @@
 
 👀 I’m interested in...
   - Software development;
-  - Level up my learning in programming;
+  - Level up my learning in programming; and,
   - Related topics about health, data science, cybersecurity and computer science; <br>  
   
 🌱 I’m currently studying Java and JS. <br>
