@@ -12,7 +12,7 @@
 
 🧱 I'll post here, some of my projects. <br>
 
-🎺 My hobby is made 20% of bicycling and 80% of music & audio electronics, modern and old stuff like vacuum tubes. (Yep! I know, wrong place to talk about!) <br>
+🎺 My hobby is made 20% of cycling and 80% of music & audio electronics, modern and old stuff like vacuum tubes. (Yep! I know, wrong place to talk about!) <br>
 
 <br>
 That's it!<br>
