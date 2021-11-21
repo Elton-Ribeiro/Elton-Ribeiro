@@ -5,16 +5,16 @@
 
 👀 I’m interested in...
   - Software development;
-  - Level up my learning in programming; and,
-  - Related topics about health, data science, cybersecurity and computer science; <br>  
+  - Level up my coding skills; and,
+  - Related topics about Computer Science and cybersecurity; <br>  
   
 🌱 I’m currently studying Java and JS. <br>
 
-💞️ I will post here, some of my projects. <br>
+🧱 I'll post here, some of my projects. <br>
 
-🎺 My hobby is made of music & audio electronics, modern and old stuff like vacuum tubes. (Yep! I know, wrong place to talk about!) <br>
+🎺 My hobby is made 20% of bicycling and 80% of music & audio electronics, modern and old stuff like vacuum tubes. (Yep! I know, wrong place to talk about!) <br>
 
-📫 How to reach me: eltonribeiro@protonmail.com <br>
 <br>
 That's it!<br>
+
 ヾ(-_- )ゞ 
