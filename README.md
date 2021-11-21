@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👦🏻 Hi! My name is Elton. <br>
+👦🏻 My name is Elton. <br>
 
 👀 I’m interested in...
   - Software development;
