@@ -5,10 +5,10 @@
 
 👀 I’m interested in...
   - Software development;
-  - Level up my coding skills; and,
-  - Related topics about Computer Science and cybersecurity; <br>  
+  - Level up my coding skills;
+  - Find bugs and contribute to open source projects; <br>  
   
-🌱 I’m currently studying Java and JS. <br>
+👨‍💻 I’m currently studying Java, JavaScript, Typescript, Angular, Spring. <br>
 
 🧱 I'll post here, some of my projects. <br>
 
@@ -18,7 +18,4 @@
 That's it!<br>
 
 ヾ(-_- )ゞ 
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eltonribeiro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eltonribeiro?trk=profile-badge">Elton Ribeiro</a></div>
-                         
               
