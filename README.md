@@ -8,7 +8,7 @@
   - Level up my coding skills;
   - Find bugs and contribute to open source projects; <br>  
   
-👨‍💻 I’m currently studying Java, JavaScript, Typescript, Angular, Spring. <br>
+👨‍💻 I’m currently studying Java, JavaScript, Typescript, Angular and Spring. <br>
 
 🧱 I'll post here, some of my projects. <br>
 
