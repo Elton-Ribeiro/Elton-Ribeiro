@@ -10,8 +10,9 @@
 🎺 My hobby is made 20% of cycling and 80% of music & audio electronics, modern and old stuff like vacuum tubes. (Yep! I know, wrong place to talk about!) <br>
 
 <details>
-  <summary> 📅 Stats</summary>
- ![](./profile-3d-contrib/profile-gitblock.svg)
+  <summary>Check Stats 📊</summary>
+  
+![](./profile-3d-contrib/profile-gitblock) 
+
 </details>
 
-  
