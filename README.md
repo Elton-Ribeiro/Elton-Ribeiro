@@ -12,10 +12,3 @@
   
   
   
-  
-  <img src="(https://user-images.githubusercontent.com/65719821/164909154-627e00d4-f964-46ee-9b1f-98d1e4509d99.gif)" alt="drawing" width="48px"/>
-  
-  
-  <summary> 📅 Stats.... </summary>
- ![](./profile-3d-contrib/profile-gitblock.svg)
-</details>
