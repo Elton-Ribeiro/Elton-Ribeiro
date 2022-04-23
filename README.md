@@ -12,7 +12,7 @@
 <details>
   <summary>Check Stats 📊</summary>
   
-![](./profile-3d-contrib/profile-gitblock) 
+![](./profile-3d-contrib/profile-gitblock.svg) 
 
 </details>
 
